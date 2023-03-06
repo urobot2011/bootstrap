@@ -7,42 +7,42 @@
 <h3 align="center">Bootstrap</h3>
 
 <p align="center">
-  Sleek, intuitive, and powerful front-end framework for faster and easier web development.
+  더 빠르고 쉬운 웹 개발을 위한 세련되고 직관적이며 강력한 프런트 엔드 프레임워크입니다.
   <br>
-  <a href="https://getbootstrap.com/docs/5.2/"><strong>Explore Bootstrap docs »</strong></a>
+  <a href="https://getbootstrap.com/docs/5.2/"><strong>Bootstrap 문서 살펴보기 »</strong></a>
   <br>
   <br>
-  <a href="https://github.com/twbs/bootstrap/issues/new?assignees=-&labels=bug&template=bug_report.yml">Report bug</a>
+  <a href="https://github.com/twbs/bootstrap/issues/new?assignees=-&labels=bug&template=bug_report.yml">버그 보고</a>
   ·
-  <a href="https://github.com/twbs/bootstrap/issues/new?assignees=&labels=feature&template=feature_request.yml">Request feature</a>
+  <a href="https://github.com/twbs/bootstrap/issues/new?assignees=&labels=feature&template=feature_request.yml">기능 요청</a>
   ·
-  <a href="https://themes.getbootstrap.com/">Themes</a>
+  <a href="https://themes.getbootstrap.com/">테마</a>
   ·
-  <a href="https://blog.getbootstrap.com/">Blog</a>
+  <a href="https://blog.getbootstrap.com/">블로그</a>
 </p>
 
 
 ## Bootstrap 5
 
-Our default branch is for development of our Bootstrap 5 release. Head to the [`v4-dev` branch](https://github.com/twbs/bootstrap/tree/v4-dev) to view the readme, documentation, and source code for Bootstrap 4.
+기본 분기는 Bootstrap 5 릴리스 개발을 위한 것입니다. [`v4-dev` 브런치](https://github.com/twbs/bootstrap/tree/v4-dev)로 이동하여 부트스트랩 4의 readme, 문서 및 소스 코드를 확인하세요.
 
 
-## Table of contents
+## 목차
 
-- [Quick start](#quick-start)
-- [Status](#status)
-- [What's included](#whats-included)
-- [Bugs and feature requests](#bugs-and-feature-requests)
-- [Documentation](#documentation)
-- [Contributing](#contributing)
-- [Community](#community)
-- [Versioning](#versioning)
-- [Creators](#creators)
-- [Thanks](#thanks)
-- [Copyright and license](#copyright-and-license)
+- [빠른 시작](#quick-start)
+- [상태](#status)
+- [포함된 것](#whats-included)
+- [버그 및 기능 요청](#bugs-and-feature-requests)
+- [서류 비치](#documentation)
+- [기여](#contributing)
+- [커뮤니티](#community)
+- [버전 관리](#versioning)
+- [크리에이터](#creators)
+- [감사합니다](#thanks)
+- [저작권 및 라이센스](#copyright-and-license)
 
 
-## Quick start
+## 빠른 시작
 
 Several quick start options are available:
 
@@ -56,7 +56,7 @@ Several quick start options are available:
 Read the [Getting started page](https://getbootstrap.com/docs/5.2/getting-started/introduction/) for information on the framework contents, templates, examples, and more.
 
 
-## Status
+## 상태
 
 [![Build Status](https://img.shields.io/github/workflow/status/twbs/bootstrap/JS%20Tests/main?label=JS%20Tests&logo=github)](https://github.com/twbs/bootstrap/actions?query=workflow%3AJS+Tests+branch%3Amain)
 [![npm version](https://img.shields.io/npm/v/bootstrap)](https://www.npmjs.com/package/bootstrap)
@@ -74,7 +74,7 @@ Read the [Getting started page](https://getbootstrap.com/docs/5.2/getting-starte
 [![Sponsors on Open Collective](https://img.shields.io/opencollective/sponsors/bootstrap)](#sponsors)
 
 
-## What's included
+## 포함된 것
 
 Within the download you'll find the following directories and files, logically grouping common assets and providing both compiled and minified variations.
 
@@ -135,7 +135,7 @@ Within the download you'll find the following directories and files, logically g
 We provide compiled CSS and JS (`bootstrap.*`), as well as compiled and minified CSS and JS (`bootstrap.min.*`). [Source maps](https://developers.google.com/web/tools/chrome-devtools/javascript/source-maps) (`bootstrap.*.map`) are available for use with certain browsers' developer tools. Bundled JS files (`bootstrap.bundle.js` and minified `bootstrap.bundle.min.js`) include [Popper](https://popper.js.org/).
 
 
-## Bugs and feature requests
+## 버그 및 기능 요청
 
 Have a bug or a feature request? Please first read the [issue guidelines](https://github.com/twbs/bootstrap/blob/main/.github/CONTRIBUTING.md#using-the-issue-tracker) and search for existing and closed issues. If your problem or idea is not addressed yet, [please open a new issue](https://github.com/twbs/bootstrap/issues/new/choose).
 
